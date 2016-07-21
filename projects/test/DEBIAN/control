@@ -1,0 +1,9 @@
+Package: com.toogoodbruh.test
+Name: Test
+Depends: winterboard
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Just a test winterboard theme
+Maintainer: toogoodbruh <martialartsapplemma@gmail.com>
+Author: toogoodbruh <martialartsapplemma@gmail.com>
+Section: Themes (SpringBoard)

@@ -1,0 +1,8 @@
+Origin: toogoodbruh Public Repository
+Label: toogoodbruh Public Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphone-arm
+Components: main
+Description: toogoodbruh Public Repo
