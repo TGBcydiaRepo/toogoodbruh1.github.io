@@ -1,0 +1,15 @@
+Package: com.toogoodbruh.test
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: toogoodbruh <martialartsapplemma@gmail.com>
+Depends: winterboard
+Filename: ./debs/com.toogoodbruh.test_1.0_iphoneos-arm.deb
+Size: 1436
+MD5sum: b61e52d3e17b99228b056f9c9e60ddc5
+SHA1: 78a73e858829a90ebd21231710bfdb0bb3301190
+SHA256: a0c85d9933476be0acedf2de6adcd609ae643e551243f5f2fa812a661625d9cf
+Section: Themes (SpringBoard)
+Description: Just a test winterboard theme
+Author: toogoodbruh <martialartsapplemma@gmail.com>
+Name: Test
+
