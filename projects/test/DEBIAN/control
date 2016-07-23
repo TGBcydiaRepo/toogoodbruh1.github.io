@@ -1,7 +1,7 @@
 Package: com.toogoodbruh.test
-Name: Test Upload
+Name: Test
 Depends: winterboard
-Version: 0.0
+Version: 1
 Architecture: iphoneos-arm
 Description: ONLY A TEST UPLOAD! DO NOT DOWNLOAD!
 Maintainer: TooGoodBruh <>
