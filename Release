@@ -1,8 +1,8 @@
-Origin: TooGoodBruh Public Repository
-Label: TooGoodBruh Public Repo
+Origin: TooGoodBruh Test Repository
+Label: TooGoodBruh Test Repo
 Suite: stable
 Version: 1.0.0.0
 Codename: ios
 Architectures: iphone-arm
 Components: main
-Description: TooGoodBruh Public Repo 01
+Description: TooGoodBruh Test Repo

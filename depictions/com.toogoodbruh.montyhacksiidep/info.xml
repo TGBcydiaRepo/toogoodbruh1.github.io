@@ -1,0 +1,46 @@
+<package>
+	<id>com.toogoodbruh.montyhacksii</id>
+	<name>MontyHacks II</name>
+	<version>1.0-b2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.2</miniOS>
+			<maxiOS>13.4</maxiOS-->
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate, com.anemonetheming.anemone</package>
+	</dependencies>
+	<descriptionlist>
+		<description>MontyHacks II</description>
+		<description>Support for compatimark</description>
+		<description><![CDATA[
+		Welcome! This theme changes the following icons:<br/>
+		Weather, Watch, Music, Maps, Photos, Clock and Camera. <br/>
+		Please note Anemone is required for this theme to take effect. <br/>
+		As you install the theme, Anemone should download and install with it.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<!--screenshot>
+			<description>Other theme</description>
+			<image>.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Other theme</description>
+			<image>.jpg</image>
+		</screenshot-->
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+
+	</links>
+</package>

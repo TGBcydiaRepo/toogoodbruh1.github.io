@@ -1,0 +1,50 @@
+<package>
+	<id>com.toogoodbruh.simplified</id>
+	<name>Simplified</name>
+	<version>1.0.0-p2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<!--otherVersions>12.1.2</otherVersions-->
+			<maxiOS>13.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>WinterBoard</package>
+		<package>IconBundles</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Familiar look, yet redesigned</description>
+		<description>A theme that will make your iOS device look great!</description>
+		<description>Support for compatimark</description>
+		<!--description><![CDATA[
+		Welcome!<br/>
+		Please download me!
+		]]>
+	</description-->
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Current Icons themed. Many more to come!</description>
+			<image>homescreenicons.jpg</image>
+		</screenshot>
+		<!--screenshot>
+			<description> </description>
+			<image>.jpg</image>
+		</screenshot-->
+	</screenshots>
+	<changelog>
+		<change>iOS 10 support</change>
+		<change>All icons were resized to 120x120</change>
+		<change>Addresses scaling issues and pixelation.</change>
+		<!--change>Facetime icon gradient changed.</change-->
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+    </link>
+
+	</links>
+</package>

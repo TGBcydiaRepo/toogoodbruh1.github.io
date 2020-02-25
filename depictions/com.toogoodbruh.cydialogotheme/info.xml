@@ -1,0 +1,48 @@
+<package>
+	<id>com.toogoodbruh.cydialogotheme</id>
+	<name>Cydia Icon Theme</name>
+	<version>1.0.0-c</version>
+	<compatibility>
+		<firmware>
+			<miniOS>8.0</miniOS>
+			<maxiOS>11.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>IconBundles</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Theme</description>
+		<description>Random</description>
+		<description>Support for compatimark</description>
+		<description><![CDATA[
+		Welcome!<br/>
+		Please download me!
+		Test text
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Other theme</description>
+			<image>.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Other theme</description>
+			<image>.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>More Info</change>
+		<change>nothing</change>
+		<change>nothing</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+
+	</links>
+</package>

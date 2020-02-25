@@ -1,0 +1,34 @@
+.alert-success {
+    box-shadow: 1px 1px grey;
+    color: #0B931F; /*#31708F */
+    background-color: #33FF52; /*#D9EDF7 */
+    border-color: #BCE8F1; /*#BCE8F1 */
+    border-radius: 5px;
+}
+
+.alert-danger {
+    box-shadow: 1px 1px grey;
+    border-radius: 5px;
+    /*color: #0B931F; /*#31708F */
+    /*background-color: #33FF52; /*#D9EDF7 */
+    /*border-color: #BCE8F1; /*#BCE8F1 */
+}
+
+.list-group {
+    /*box-shadow: 1px 1px grey;*/
+    border-radius: 10px;
+}
+
+.repoFooterLinks {
+    /*box-shadow: 1px 1px grey;*/
+    border-radius: 10px;
+}
+
+.repoFooterLinksTos {
+    /*box-shadow: 1px 1px grey;*/
+    border-radius: 10px;
+}
+
+.container {
+    box-shadow: grey;
+}

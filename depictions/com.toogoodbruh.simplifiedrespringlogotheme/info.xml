@@ -1,0 +1,47 @@
+<package>
+	<id>com.toogoodbruh.simplifiedrespringlogo</id>
+	<name>Simplified Respring Logo</name>
+	<version>1.0-d3</version>
+	<compatibility>
+		<firmware>
+			<miniOS>10.0</miniOS>
+			<maxiOS>13.4</maxiOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<!--package>mobilesubstrate</package-->
+		<!--package>MakeRespringsGreatAgain</package-->
+	</dependencies>
+
+	<descriptionlist>
+		<description>Respring Logo</description>
+		<description>For the Simplified Theme</description>
+		<description>Support for compatimark</description>
+		<!--description><![CDATA[
+		Welcome!<br/>
+		Please download me!
+		]]>
+	</description-->
+	</descriptionlist>
+	<!--screenshots>
+		<screenshot>
+			<description>Other theme</description>
+			<image>.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>Other theme</description>
+			<image>.jpg</image>
+		</screenshot>
+	</screenshots-->
+	<changelog>
+		<change>Fully working on iPhone and iPod</change>
+		<change>Package added to Cydia</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+
+	</links>
+</package>

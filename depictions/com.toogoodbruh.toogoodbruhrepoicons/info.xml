@@ -1,0 +1,47 @@
+<package>
+	<id>com.toogoodbruh.toogoodbruhrepoicons</id>
+	<name>TooGoodBruh Repo Icons</name>
+	<version>0.3-a001</version>
+	<compatibility>
+		<!--firmware>
+			<miniOS>2.0</miniOS>
+			<maxiOS>13.3</maxiOS>
+		</firmware>
+	</compatibility-->
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<!--package>WinterBoard</package>
+		<package>IconBundles</package-->
+	</dependencies>
+	<descriptionlist>
+    <description>Recommended to install. Gets rid of the question mark icon.</description>
+		<description>Section icons</description>
+		<description>Changes the default cydia section icons.</description>
+		<description>Support for compatimark</description>
+		<!--description><![CDATA[
+		Welcome!<br/>
+		Please download me!
+		]]>
+	</description-->
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>TGB Themes section icon</description>
+			<image>themestgb.jpg</image>
+		</screenshot>
+		<screenshot>
+			<description>TGB Respring Logos section icon</description>
+			<image>respring.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Package added to Cydia</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+		</link>
+
+	</links>
+</package>
