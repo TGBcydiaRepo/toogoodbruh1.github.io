@@ -1,10 +1,10 @@
-Package: com.toogoodbruh.simplifiedrespringlogo
+Package: com.toogoodbruh.test.simplifiedrespringlogo
 Name: Simplified Respring Logo
 Version: 1.0-d3
 Architecture: iphoneos-arm
 Description: Simple respring logo for the Simplified theme
-Depiction: https://repo.toogoodbruh.com/depictions/?p=com.toogoodbruh.simplifiedrespringlogotheme
-Homepage: https://repo.toogoodbruh.com
+Depiction: https://testrepo.toogoodbruh.com/depictions/?p=com.toogoodbruh.simplifiedrespringlogotheme
+Homepage: https://testrepo.toogoodbruh.com
 Maintainer: TooGoodBruh <martialartsapplemma@gmail.com>
 Author: TooGoodBruh <martialartsapplemma@gmail.com>
 Section: TGB Respring Logos

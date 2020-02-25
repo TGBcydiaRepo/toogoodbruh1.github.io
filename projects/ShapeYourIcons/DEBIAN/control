@@ -1,11 +1,11 @@
-Package: com.toogoodbruh.shapeyouricons
+Package: com.toogoodbruh.test.shapeyouricons
 Name: Shape Your Icons
 Version: 1.0.1
 Architecture: iphoneos-arm
 Description: Shape Your Icons with Anemone!
-Depiction: https://repo.toogoodbruh.com/depictions/?p=com.toogoodbruh.shapeyouricons
+Depiction: https://testrepo.toogoodbruh.com/depictions/?p=com.toogoodbruh.shapeyouricons
 Depends: firmware( >=10.0)
-Homepage: https://repo.toogoodbruh.com
+Homepage: https://testrepo.toogoodbruh.com
 Maintainer: TooGoodBruh <martialartsapplemma@gmail.com>
 Author: Gabe Nydick <martialartsapplemma@gmail.com>
 Section: TGB Themes

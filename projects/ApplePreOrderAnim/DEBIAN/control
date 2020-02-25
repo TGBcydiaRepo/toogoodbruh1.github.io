@@ -1,4 +1,4 @@
-Package: com.toogoodbruh.applepreorderanim
+Package: com.toogoodbruh.test.applepreorderanim
 Name: Apple Preorder Animation
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -6,10 +6,10 @@ Description:  An animated respring logo that is the same as the apple on the wai
  page before iPhone pre orders start.
   · Smooth animation
   · High resolution
-Depiction: https://repo.toogoodbruh.com/depictions/?p=com.toogoodbruh.applepreanim
+Depiction: https://testrepo.toogoodbruh.com/depictions/?p=com.toogoodbruh.applepreanim
 Depends: firmware (>=10.0)
 Icon: file://Users/gnydick/Documents/toogoodbruh.github.io/projects/ApplePreOrderAnim/DEBIAN/icon.png
-Homepage: https://repo.toogoodbruh.com
+Homepage: https://testrepo.toogoodbruh.com
 Maintainer: TooGoodBruh <martialartsapplemma@gmail.com>
 Author: Gabe Nydick <martialartsapplemma@gmail.com>
 Section: TGB Respring Logos
